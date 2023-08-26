@@ -63,8 +63,8 @@ CREATE TABLE `login` (
 --
 
 INSERT INTO `login` (`id`, `nama`, `role`, `username`, `password`) VALUES
-(1, 'Admin', 'Admin', 'Admin', 'Admin'),
-(2, 'Owner', 'Owner', 'Owner', 'Owner');
+(1, 'Admin', 'Admin', 'admin', 'admin'),
+(2, 'Owner', 'Owner', 'owner', 'owner');
 
 -- --------------------------------------------------------
 
