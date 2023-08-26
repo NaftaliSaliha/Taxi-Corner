@@ -26,3 +26,6 @@ username : admin <br />
 password : admin <br />
 
 # Preview
+<img width="229" alt="preview1" src="https://github.com/NaftaliSaliha/Taxi-Corner/assets/136670760/f3cf659b-e1ce-4a87-a624-e40ae468fcc9">
+![preview2](https://github.com/NaftaliSaliha/Taxi-Corner/assets/136670760/4c30a4be-44f8-4ec0-adb2-264c4b881b9f)
+![preview3](https://github.com/NaftaliSaliha/Taxi-Corner/assets/136670760/3861e50c-374d-4875-a3d9-1dd64d6c28d6)
