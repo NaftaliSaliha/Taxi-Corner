@@ -15,14 +15,14 @@ Anda dapat melakukan konfigurasi koneksi database seperti path yang digunakan me
 2. Import file "tubes.sql" ke dalam database "tubes" yang baru saja Anda buat.
 
 # User
-Terdapat 2 level untuk pengguna:
+Terdapat 2 level untuk pengguna: <br /><br />
 
-**** Untuk Owner ****
-username : owner
-password : owner
+**** Untuk Owner **** <br />
+username : owner <br />
+password : owner <br />
 
-**** Untuk Admin ****
-username : admin
-password : admin
+**** Untuk Admin **** <br />
+username : admin <br />
+password : admin <br />
 
 # Preview
